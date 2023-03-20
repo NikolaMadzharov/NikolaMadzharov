@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nikola Madzharov</h1>
 <h3 align="center">A passionate junior developer from Bulgaria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikolamadzharov" alt="nikolamadzharov" /></a> </p>
+
 
 - 📫 How to reach me **nmadzharov1912@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://bg.linkedin.com/in/nikola-madzharov-106b90236?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bg.linkedin.com/in/nikola-madzharov-106b90236?trk=people-guest_people_search-card" height="30" width="40" /></a>
+<a href="https://bg.linkedin.com/in/nikola-madzharov-106b90236?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bg.linkedin.com/in/nikola-madzharov-106b90236?trk=people-guest_people_search-card" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
